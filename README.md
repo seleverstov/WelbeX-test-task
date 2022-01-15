@@ -4,5 +4,5 @@
 ### Запуск: 
 ```
 npm install
-npm runs serve
+npm run serve
 ```
